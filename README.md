@@ -70,4 +70,4 @@ Open to interesting collaborations and open-source contributions.
 
 ---
 
-*Let's connect and build something meaningful with data.*
+*Let's connect and build something meaningful with data..*
