@@ -1,4 +1,4 @@
-## Hi 👋, I'm Ajila
+## Hi 👋, I'm Ajila "The-ghost-in-the-machine"
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
