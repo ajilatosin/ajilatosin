@@ -1,13 +1,19 @@
-## Hi 👋, I'm Ajila "The-ghost-in-the-machine"
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
+
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="320" alt="Developer analyzing data" />
+
+  <h3>Hi 👋, I'm Ajila</h3>
+  <h4>Data Scientist • Machine Learning Engineer • AI Builder</h4>
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Turning+data+into+actionable+insights"
+    alt="Typing SVG"
+  />
 </div>
 
 ---
